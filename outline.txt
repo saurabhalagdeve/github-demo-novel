@@ -1,3 +1,7 @@
+===========
+outline.txt
+===========
+
 Chaptor 1 
 -We meet Nick, Jerry, Daisy, and jordan
 
